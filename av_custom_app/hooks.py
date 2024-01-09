@@ -4,6 +4,7 @@ app_publisher = "amrita"
 app_description = "Custom app for amrita vidyalayam"
 app_email = "avfrappe@gmail.com"
 app_license = "gpl-3.0"
+fixtures = ['Custom Field']
 # required_apps = []
 
 # Includes in <head>
